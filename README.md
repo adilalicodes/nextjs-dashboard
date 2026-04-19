@@ -1,5 +1,2 @@
-## Next.js App Router Course - Starter
-
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+# nextjs-dashboard
+This repository showcases my hands-on learning with Next.js and React, covering App Router, Server and Client Components, routing, navigation, font optimization, and UI structuring. The goal is to build a strong foundation in modern full-stack web development.
